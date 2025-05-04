@@ -181,7 +181,7 @@ section.main > div {
     st.markdown('</div>', unsafe_allow_html=True)
 
     # 👣 Footer
-    st.markdown("""<div class="footer">🚀 Made with by Hafsa Sohail | 2025</div>""", unsafe_allow_html=True)
+    st.markdown("""<div class="footer">Made by Hafsa Sohail | 2025</div>""", unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()
